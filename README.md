@@ -19,6 +19,8 @@ day 16 added  Min Stack ,Lowest Common Ancestor of a Binary Tree and Bottom View
 day 17 added assignment
 day 18 added assignment  problem
 day 19 added three assignments
+day 20 added  assignment work 
+x
 
 
  
