@@ -35,6 +35,7 @@ day 32 added assignment work
 day 33 added assignment work
 day 34 added assignment work
 day 35 added assignment work
+day 36 added leet code problem
 
 
 
