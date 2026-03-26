@@ -41,7 +41,8 @@ day 38 added leet code problem
 day 39 added leet code problem
 day 40 added leet code problem
 day 41 added leet code problem
-day 442 added leet code problem
+day 42 added leet code problem
+day 43 added leet code problem
 
 
 
